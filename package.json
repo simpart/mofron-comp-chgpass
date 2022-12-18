@@ -1,0 +1,30 @@
+{
+  "name": "mofron-comp-chgpass",
+  "version": "0.0.1",
+  "description": "change password component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-chgpass.git"
+  },
+  "dependencies": {
+    "mofron-layout-hrzcenter": "",
+    "mofron-layout-margin": "",
+    "mofron-comp-errmsg": "",
+    "mofron-comp-input" : "",
+    "mofron-comp-button": ""
+  },
+  "keywords": [
+    "front-end",
+    "mofron"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-chgpass/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-chgpass#readme"
+}
